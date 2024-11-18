@@ -23,8 +23,8 @@ To implement a logistic regression model to classify food items for diabetic pat
 ```
 /*
 Program to implement Logistic Regression for classifying food choices based on nutritional information.
-Developed by: Aswini M
-RegisterNumber:  212223220010
+Developed by: nalini p
+RegisterNumber:  212223220063
 */
 ```python
 import pandas as pd
